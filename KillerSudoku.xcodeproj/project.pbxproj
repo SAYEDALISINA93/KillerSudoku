@@ -94,6 +94,10 @@
 		D2BE17272A29D52E0047B105 /* KillerSudoku */ = {
 			isa = PBXGroup;
 			children = (
+				D2BE17552A29D5640047B105 /* ViewModels */,
+				D2BE17542A29D5600047B105 /* Views */,
+				D2BE17532A29D5490047B105 /* Services */,
+				D2BE17522A29D5410047B105 /* Models */,
 				D2BE17282A29D52E0047B105 /* KillerSudokuApp.swift */,
 				D2BE172A2A29D52E0047B105 /* ContentView.swift */,
 				D2BE172C2A29D52F0047B105 /* Assets.xcassets */,
@@ -125,6 +129,34 @@
 				D2BE17452A29D52F0047B105 /* KillerSudokuUITestsLaunchTests.swift */,
 			);
 			path = KillerSudokuUITests;
+			sourceTree = "<group>";
+		};
+		D2BE17522A29D5410047B105 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D2BE17532A29D5490047B105 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D2BE17542A29D5600047B105 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D2BE17552A29D5640047B105 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
